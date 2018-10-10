@@ -1,0 +1,21 @@
+Based on technology we will sonarqube
+Based on technology we will stylecop
+
+1. Is there any dependency on FE, DC and Biztalk?
+2. We have one 
+
+
+
+TFS integration with Jenkins
+
+
+---------------------------
+Desktop Viewer
+---------------------------
+The connection to "Developer Desktop" failed with status (1030).
+---------------------------
+OK   
+---------------------------
+
+
+https://connect.acegroup.com/ 
